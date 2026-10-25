@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://m.netinfo.bg/thevoice/resources/assets/images/logo.png",The Voice
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 tvg-logo="https://www.city.bg/theme_assets/city/images/logo.png",City TV
+https://tv.city.bg/play/tshls/citytv/3.m3u8
+#EXTINF:-1 tvg-logo="https://www.magic.bg/resources/assets/images/favicon/apple-touch-icon.png",Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 tvg-logo="https://v.fastcdn.co/t/ce0680fc/ab4ea46b/1709567830-57610712-220x124-PAA-LOGO-OTT-WIDESCR.png",People are Awesome
+https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c78JM28/image.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.failarmy.com/cdn/shop/t/25/assets/logo-image-file.png",FailArmy
+https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png",Fashion TV
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 tvg-logo="https://www.bloomberg.com/favicon-black.png",Bloomberg TV Europe
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-logo="https://www.dw.com/images/icons/favicon-180x180.png",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://eurocom.bg/wp-content/uploads/2024/07/eurocom-favicon.png",Евроком
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:-1,По света и у нас - 20:00 часа, 24 октомври 2026 г.
+https://bnt.bg/f/video/o/352/8b766ca09ac53b5ab79b5de804feb0e2.mp4
